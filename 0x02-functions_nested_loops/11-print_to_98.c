@@ -31,7 +31,7 @@ printf("%d, ", i);
 }
 printf("%d", 98);
 }
-else if (n == 0)
+else if (n == 98)
 {
 	printf("%d", 98);
 }
