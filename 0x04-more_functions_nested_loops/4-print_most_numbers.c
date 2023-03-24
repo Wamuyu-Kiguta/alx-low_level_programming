@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * print_most_numbers - prints the numbers, from 0 to 9, followed by a new line.
- * Return: nnothing on success
+ * print_most_numbers - prints numbers, from 0 to 9, followed by a new line.
+ * Return: nothing on success
  */
 void print_most_numbers(void)
 {
