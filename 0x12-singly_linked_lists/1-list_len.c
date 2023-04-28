@@ -1,12 +1,12 @@
 #include "lists.h"
 
 /**
- * *add_node - adds a new node at the beginning of a list_t list
- * @str: node to duplicate
- * Return: address to the new element or NULL if it fails
+ * list_len - returns the number of elements in a linked list_t list
+ * @h: pointer to list_t
+ * Return: number of elements
  */
 
-size_t list_len(const list_t *h) 
+size_t list_len(const list_t *h)
 {
 	size_t p = 0;
 
